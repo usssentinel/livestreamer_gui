@@ -1,3 +1,7 @@
+# GUI config file
+config.db
+*.backup
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
